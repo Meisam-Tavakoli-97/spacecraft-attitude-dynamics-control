@@ -11,7 +11,7 @@ This repository contains the MATLAB and Simulink implementation of a **Spacecraf
 The project focuses on modeling spacecraft attitude dynamics, environmental disturbances, sensor behavior, and control algorithms for detumbling, pointing, and stabilization maneuvers.
 
 > **Author:** M. Tavakoli  
-> **Supervisors:** Hamid Moeenfard, Vahid Bohlouri
+> **Supervisors:** Professor Hamid Moeenfard, Professor Vahid Bohlouri
 
 ---
 
